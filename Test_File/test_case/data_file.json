@@ -1,0 +1,12 @@
+{
+  "case1": {"search_key": "python"},
+  "case2": {"search_key": "selenium"},
+  "case3": {"search_key": "unittest"},
+  "case4": {"search_key": "pytest"},
+  "case5": {"search_key": "ddt"},
+  "case6": {"search_key": "json"},
+  "case7": {"search_key": "yaml"},
+  "case8": {"search_key": "www.3wyuming.xyz"},
+  "case9": {"search_key": "山东"},
+  "case0": {"search_key": "济南"}
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="1" hostname="WIN-A7OVDTC2HD7" name="pytest" skipped="0" tests="9" time="0.110" timestamp="2019-12-04T09:25:01.065723"><testcase classname="test_assert" file="test_assert.py" line="13" name="test_add_1" time="0.000"></testcase><testcase classname="test_assert" file="test_assert.py" line="16" name="test_add_2" time="0.000"></testcase><testcase classname="test_assert" file="test_assert.py" line="19" name="test_add_3" time="0.010"></testcase><testcase classname="test_assert" file="test_assert.py" line="22" name="test_add_4" time="0.000"></testcase><testcase classname="test_parameterize" file="test_parameterize.py" line="2" name="test_pow[case1]" time="0.000"></testcase><testcase classname="test_parameterize" file="test_parameterize.py" line="2" name="test_pow[case2]" time="0.000"></testcase><testcase classname="test_parameterize" file="test_parameterize.py" line="2" name="test_pow[case3]" time="0.000"></testcase><testcase classname="test_parameterize" file="test_parameterize.py" line="2" name="test_pow[case4]" time="0.000"></testcase><testcase classname="test_sample" file="test_sample.py" line="4" name="test_answer" time="0.000"><failure message="assert 4 == 5
+ +  where 4 = inc(3)">def test_answer():
+&gt;       assert inc(3)==5
+E       assert 4 == 5
+E        +  where 4 = inc(3)
+
+test_sample.py:6: AssertionError</failure></testcase></testsuite></testsuites>

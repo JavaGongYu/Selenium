@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+    <platforms>
+        <platform>Linux</platform>
+        <platform>Windows</platform>
+        <platform>MacOS</platform>
+    </platforms>
+    <browsers>
+        <browsers>Firefox</browsers>
+        <browsers>Chrome</browsers>
+        <browsers>Edge</browsers>
+    </browsers>
+    <url>http://www.3wyuming.xyz</url>
+        <login username="Admin" password="A123123"/>
+        <login username="GongYu" password="A123123"/>
+</info>
